@@ -1,5 +1,5 @@
-# Nyangoso<!DOCTYPE html>
-<!DOCTYPE html>
+# Nyangoso Construction Company
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
