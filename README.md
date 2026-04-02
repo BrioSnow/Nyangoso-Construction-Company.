@@ -1,10 +1,17 @@
 # Nyangoso Construction Company
-
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nyangoso Construction Company</title>
+
+<!-- SEO Meta -->
+<title>Nyangoso Construction Company - Nyamira, Kenya</title>
+<meta name="description" content="Professional construction services in Nyamira, Kenya. Residential, commercial, and renovation projects. Contact 0799833744.">
+<meta name="keywords" content="Construction, Nyamira, Kenya, Residential, Commercial, Renovation, Nyangoso Construction">
+<meta name="author" content="Nyangoso Construction Company">
+
+<!-- Favicon -->
+<link rel="icon" href="logo.png" type="image/png">
 
 <style>
 body { margin:0; font-family:'Segoe UI',sans-serif; background:#f0f4f8; scroll-behavior:smooth; }
@@ -13,12 +20,12 @@ header img { width:60px; }
 nav { background:#1e3a8a; text-align:center; padding:12px; }
 nav a { color:white; margin:15px; text-decoration:none; font-weight:bold; transition:0.3s; }
 nav a:hover { color:#facc15; transform:scale(1.1); }
-.hero { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('placeholder.jpg'); background-size:cover; color:white; padding:120px 20px; text-align:center; animation: fadeIn 2s ease-in; }
+.hero { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('project1.jpg'); background-size:cover; color:white; padding:120px 20px; text-align:center; animation: fadeIn 2s ease-in; }
 .hero h1 { font-size:45px; }
 @keyframes fadeIn { from{opacity:0;} to{opacity:1;} }
 section { padding:50px 20px; max-width:1100px; margin:auto; animation: fadeUp 1.5s ease; }
 @keyframes fadeUp { from{opacity:0; transform:translateY(40px);} to{opacity:1; transform:translateY(0);} }
-h2 { text-align:center; color:#1e3a8a; }
+h1, h2 { color:#1e3a8a; text-align:center; }
 .about { background:white; border-left:6px solid #ff7a18; padding:20px; border-radius:8px; }
 .services ul { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); list-style:none; padding:0; }
 .services li { background: linear-gradient(to right,#1e3a8a,#2563eb); color:white; margin:10px; padding:20px; border-radius:10px; text-align:center; transition:0.3s; }
@@ -40,9 +47,9 @@ footer { background:#ff7a18; color:white; text-align:center; padding:15px; }
 <body>
 
 <header>
-  <img src="logo.png" alt="Logo"> <!-- Placeholder logo -->
+  <img src="logo.png" alt="Nyangoso Construction Logo">
   <div>
-    <h1>Nyangoso Construction</h1>
+    <h1>Nyangoso Construction Company</h1>
     <p>Building Excellence</p>
   </div>
 </header>
@@ -81,9 +88,9 @@ footer { background:#ff7a18; color:white; text-align:center; padding:15px; }
 <section id="projects">
   <h2>Our Projects</h2>
   <div class="gallery">
-    <img src="placeholder.jpg" alt="Project 1">
-    <img src="placeholder.jpg" alt="Project 2">
-    <img src="placeholder.jpg" alt="Project 3">
+    <img src="project1.jpg" alt="Project 1 - Residential">
+    <img src="project2.jpg" alt="Project 2 - Commercial">
+    <img src="project3.jpg" alt="Project 3 - Renovation">
   </div>
 </section>
 
@@ -111,7 +118,7 @@ footer { background:#ff7a18; color:white; text-align:center; padding:15px; }
 </section>
 
 <footer>
-  <p>&copy; 2026 Nyangoso Construction Company</p>
+  <p>&copy; 2026 Nyangoso Construction Company | Nyamira, Kenya</p>
 </footer>
 
 </body>
